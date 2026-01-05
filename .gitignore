@@ -1,0 +1,10 @@
+passcrypt
+*.o
+*.exe
+*.out
+a.out
+
+.vscode/
+.idea/
+*.swp
+*~
