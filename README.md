@@ -80,10 +80,6 @@ This implementation has serious weaknesses:
 - Difference between encryption and hashing
 - Why proper crypto libraries are important
 
-## License
-
-MIT License - Use for education only
-
 ---
 
 **Remember:** Encryption hides data temporarily. Password hashing protects passwords permanently. Use the right tool for the job!
