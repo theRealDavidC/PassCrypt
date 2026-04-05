@@ -2,7 +2,7 @@
 
 A simple educational tool demonstrating reversible password encryption using XOR stream cipher.
 
-## ⚠️ WARNING
+## WARNING
 
 **This is for LEARNING ONLY. DO NOT use for real password storage!**
 
