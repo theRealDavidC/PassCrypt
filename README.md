@@ -4,7 +4,7 @@ A simple educational tool demonstrating reversible password encryption using XOR
 
 ## WARNING
 
-**This is for LEARNING ONLY. DO NOT use for real password storage!**
+**This is for LEARNING ONLY. DO NOT use for real password storage**
 
 For production systems, use proper password hashing like:
 - bcrypt
